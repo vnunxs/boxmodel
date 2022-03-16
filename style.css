@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Great+Vibes&family=Neonderthaw&display=swap');
+
+/*font-family: 'Cinzel', serif;
+font-family: 'Great Vibes', cursive;*/
+
+
+h1{
+    font-family: 'Great Vibes', cursive;
+}
+
+.post .date{
+    font-family: 'Cinzel', serif;
+    color:#0077b6;
+    padding-top: 10px;
+}
+.texto{
+    color:black;
+    line-height: 1.2;
+    font-size: 15px;
+    padding: 0px 0px 0px 30px;
+}
+.principal{
+    width: 50%;
+    margin: auto;
+    background-color: #F0cbaf;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom:10px;
+}
